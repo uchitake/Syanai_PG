@@ -1,0 +1,23 @@
+.Title {
+    text-align: center;
+}
+
+header {
+    width: 70%;
+    height: 150px;
+    margin: 0 auto;
+    background-color: #ff7c7c;
+}
+
+main {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #7cb8ff;
+}
+
+footer {
+    width: 70%;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #7cff86;
+}
