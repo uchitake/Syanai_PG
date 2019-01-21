@@ -15,14 +15,11 @@
     <!--ヘッダーエリア-->
     <header>
         <h2>Headeer Area</h2>
-        <table>
-            <tr>
-                <td>menu</td>
-                <td>menu</td>
-                <td>menu</td>
-                <td>menu</td>
-            </tr>
-        </table>
+        <ul class="list-inline">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ul>
     </header>
 
     <!--メインエリア-->
@@ -31,7 +28,7 @@
 
         <hr>
         <p>Input Text</p>
-        <input class="hidden-sm" type="text">
+        <input type="text">
         <hr>
         <p>Input Button</p>
         <input type="button" value="Button">
@@ -53,6 +50,75 @@
         <input type="radio" name="radio" value="True">OK
         <input type="radio" name="radio" value="False">NG
         <hr>
+        <p><strong>ユーザ入力</strong></p>
+        <p>キー入力 <kbd>Ctrl + C</kbd> </p>
+        <p>キー入力 <kbd>Space</kbd> </p>
+        <p>キー入力 <kbd>Enter</kbd> </p>
+        <hr>
+        <p><strong>インラインコード</strong></p>
+        <p>インラインコードは <code>&lt;code&gt;</code> で指定します。</p>
+        <p>インラインコードは <code>test</code> で指定します。</p>
+        <hr>
+        <p><strong>変数</strong></p>
+        <p><var>E</var> = <var>m</var><var>c</var><sup>2</sup></p>
+        <hr>
+        <p><strong>インラインテキスト要素</strong></p>
+        <p>mark は <mark>重要なテキスト</mark> を示します。</p>
+        <p>del は <del>削除されたテキスト</del> を示します。</p>
+        <p>s は <s>取り消されたテキスト</s> を示します。</p>
+        <p>ins は <ins>挿入されたテキスト</ins> を示します。</p>
+        <p>u を指定すると <u>下線付き</u> で表示されます。</p>
+        <p>small を指定すると <small>小さなテキスト</small> で表示されます。</p>
+        <p>strong は <strong>強調されたテキスト</strong> を示します。</p>
+        <p>em は <em>emphasis(強調された) text</em> を示します。</p>
+        <hr>
+        <p><strong>テーブルクラス　table-bordered</strong></p>
+        <table class="table table-bordered">
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+            </tr>
+            <tr>
+                <td>Yamada</td>
+                <td>16</td>
+            </tr>
+            <tr>
+                <td>Suzuki</td>
+                <td>26</td>
+            </tr>
+            <tr>
+                <td>Tanaka</td>
+                <td>36</td>
+            </tr>
+        </table>
+        <hr>
+        <p><strong>コンテキストクラス</strong></p>
+        <table class="table">
+            <tr>
+                <th>Class</th>
+                <th>Description</th>
+            </tr>
+            <tr class="active">
+                <td>.active</td>
+                <td>This is a active message.</td>
+            </tr>
+            <tr class="success">
+                <td>.success</td>
+                <td>This is a success message.</td>
+            </tr>
+            <tr class="info">
+                <td>.info</td>
+                <td>This is a information message.</td>
+            </tr>
+            <tr class="warning">
+                <td>.warning</td>
+                <td>This is a warning message.</td>
+            </tr>
+            <tr class="danger">
+                <td>.danger</td>
+                <td>This is a danger message.</td>
+            </tr>
+        </table>
     </main>
 
     <!--フッターエリア-->
