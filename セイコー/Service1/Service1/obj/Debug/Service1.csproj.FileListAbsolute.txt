@@ -1,0 +1,8 @@
+C:\Users\PC-102\source\repos\Service1\Service1\bin\Debug\Service1.exe.config
+C:\Users\PC-102\source\repos\Service1\Service1\bin\Debug\Service1.exe
+C:\Users\PC-102\source\repos\Service1\Service1\bin\Debug\Service1.pdb
+C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.ProjectInstaller.resources
+C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.csproj.GenerateResource.cache
+C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.csproj.CoreCompileInputs.cache
+C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.pdb

@@ -1,0 +1,83 @@
+﻿アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+System.ServiceProcess.ServiceProcessInstaller インストーラーのロールバック段階で例外が発生しました。
+System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+インストールのロールバック段階で例外が発生しました。この例外は無視され、ロールバックは続行します。ただし、ロールバック完了後、コンピューターは完全に元の状態に戻らない可能性があります。
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+System.ServiceProcess.ServiceProcessInstaller インストーラーのロールバック段階で例外が発生しました。
+System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+インストールのロールバック段階で例外が発生しました。この例外は無視され、ロールバックは続行します。ただし、ロールバック完了後、コンピューターは完全に元の状態に戻らない可能性があります。
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+System.ServiceProcess.ServiceProcessInstaller インストーラーのロールバック段階で例外が発生しました。
+System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+インストールのロールバック段階で例外が発生しました。この例外は無視され、ロールバックは続行します。ただし、ロールバック完了後、コンピューターは完全に元の状態に戻らない可能性があります。
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+System.ServiceProcess.ServiceProcessInstaller インストーラーのロールバック段階で例外が発生しました。
+System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+インストールのロールバック段階で例外が発生しました。この例外は無視され、ロールバックは続行します。ただし、ロールバック完了後、コンピューターは完全に元の状態に戻らない可能性があります。
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+サービス 'Service1テスト' をインストールしています...
+EventLog ソース Service1テスト をログ Application に作成しています...
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+ソース Service1テスト の前の状態にイベント ログを復元しています。
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
+サービス 'Service1テスト' をインストールしています...
+サービス 'Service1テスト' は正常にインストールされました。
+EventLog ソース Service1テスト をログ Application に作成しています...
+アセンブリ 'C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.InstallLog
+   assemblypath = C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe
