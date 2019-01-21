@@ -103,3 +103,34 @@ C:\Users\PC-102\source\repos\Service1\Service1\obj\Debug\Service1.exe アセン�
 コミット段階が正常に終了しました。
 
 トランザクション インストールが完了しました。
+
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\PC-102\Documents\MyData\Git_Hub\Syanai_PG\セイコー\Service1\Service1\obj\Debug\Service1.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\PC-102\Documents\MyData\Git_Hub\Syanai_PG\セイコー\Service1\Service1\obj\Debug\Service1.InstallLog にあります。
+
+インストール段階で例外が発生しました。
+System.ComponentModel.Win32Exception: 指定されたサービスは既に開始されています。
+
+インストールのロールバックを開始しています。
+C:\Users\PC-102\Documents\MyData\Git_Hub\Syanai_PG\セイコー\Service1\Service1\obj\Debug\Service1.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\PC-102\Documents\MyData\Git_Hub\Syanai_PG\セイコー\Service1\Service1\obj\Debug\Service1.InstallLog にあります。
+
+ロールバックの段階が正常に完了しました。
+
+トランザクション インストールが完了しました。
+
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\PC-102\Documents\MyData\Git_Hub\Syanai_PG\セイコー\Service1\Service1\obj\Debug\Service1.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\PC-102\Documents\MyData\Git_Hub\Syanai_PG\セイコー\Service1\Service1\obj\Debug\Service1.InstallLog にあります。
+
+インストール段階が正常に完了しました。コミット段階を開始しています。
+C:\Users\PC-102\Documents\MyData\Git_Hub\Syanai_PG\セイコー\Service1\Service1\obj\Debug\Service1.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\PC-102\Documents\MyData\Git_Hub\Syanai_PG\セイコー\Service1\Service1\obj\Debug\Service1.InstallLog にあります。
+
+コミット段階が正常に終了しました。
+
+トランザクション インストールが完了しました。

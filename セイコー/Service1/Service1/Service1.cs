@@ -72,7 +72,7 @@ namespace Service1
             }
 
             System.Diagnostics.EventLog.WriteEntry(
-    sourceName, "Tick : " + DateTime.Now,
+    sourceName, "Tick 1: " + DateTime.Now,
     System.Diagnostics.EventLogEntryType.Information, 1, 1000, myData);
         }
     }
