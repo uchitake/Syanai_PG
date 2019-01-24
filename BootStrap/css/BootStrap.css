@@ -7,6 +7,10 @@
     width: 100%;
 }
 
+.form-control {
+    width: auto;
+}
+
 header {
     width: 70%;
     height: 150px;

@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>BootStrap</title>
-    <link rel="stylesheet" href="css/BootStrap.css">
     <link rel="stylesheet" href="bootstrap-4.2.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/BootStrap.css">
     <script src="js/lib/jquery-3.3.1.min.js"></script>
     <script src="bootstrap-4.2.1-dist/js/bootstrap.min.js"></script>
 </head>
@@ -72,7 +72,8 @@
         <p>strong は <strong>強調されたテキスト</strong> を示します。</p>
         <p>em は <em>emphasis(強調された) text</em> を示します。</p>
         <hr>
-        <p><strong>テーブルクラス　table-bordered</strong></p>
+        <p><strong>テーブルクラス</strong></p>
+        <p>table-bordered</p>
         <table class="table table-bordered">
             <tr>
                 <th>Name</th>
@@ -89,6 +90,29 @@
             <tr>
                 <td>Tanaka</td>
                 <td>36</td>
+            </tr>
+        </table>
+        <br>
+        <p>table-hover</p>
+        <table class="table table-hover">
+            <tr>
+                <th>項目1</th>
+                <th>項目2</th>
+                <th>項目3</th>
+            <tr>
+                <td>Text</td>
+                <td>Text</td>
+                <td>Text</td>
+            </tr>
+            <tr>
+                <td>Text</td>
+                <td>Text</td>
+                <td>Text</td>
+            </tr>
+            <tr>
+                <td>Text</td>
+                <td>Text</td>
+                <td>Text</td>
             </tr>
         </table>
         <hr>
@@ -144,6 +168,33 @@
             <Button class="btn btn-secondary">2test</Button>
             <Button class="btn btn-secondary" disabled>3test</Button>
         </div>
+        <hr>
+        <form>
+            　<div class="form-group">
+                　　Ｅメールアドレス
+                　　<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail"></div>
+            　<div class="form-group">
+                　　<label for="exampleInputPassword1">パスワード</label>
+                　　<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password"></div>
+            　<div class="form-group">
+                　　<label for="exampleSelect1">選択例</label>
+                　　<select class="form-control" id="exampleSelect1">
+                    　　　<option>1 ねこ</option>　<option>2 いぬ</option>
+                    　　　<option>3 さる</option>　<option>4 うま</option>
+                    　　</select></div>
+            　<div class="form-group">
+                　<label for="exampleSelect2">複数選択の例（[Shift]キーで複数選択可）</label>
+                　　<select multiple class="form-control" id="exampleSelect2">
+                    　　　<option>1 ねこ</option>　<option>2 いぬ</option>
+                    　　　<option>3 さる</option>　<option>4 うま</option>
+                    　　</select></div>
+            　<div class="form-group">
+                　　<label for="exampleTextarea">テキストエリアの例</label>
+                　　<textarea class="form-control" id="exampleTextarea" rows="3"></textarea></div>
+            　<div class="form-group">
+                　　<label for="exampleInputFile">ファイル入力</label>
+                　　<input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp"></div>
+        </form>
         <hr>
         <p><strong>イメージ</strong></p>
         <div class="container-fluid">
